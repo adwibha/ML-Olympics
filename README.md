@@ -42,8 +42,7 @@ This project follows a structured approach, which mirrors best practices in mach
 
 ## Project Files
 
-- **machine_learning.ipynb**: Main notebook containing the core project code, including data preprocessing, model training, and evaluation.
-- **data_prep.ipynb**: A supporting notebook that processes the athlete-level dataset into the team-level data format used for training.
+- **code.ipynb**: Main notebook containing the core project code, including data preprocessing, model training, and evaluation.
 
 ## Local Setup
 
@@ -69,4 +68,3 @@ pip install pandas numpy scikit-learn seaborn
 For this project, we will be using data from the Olympics, originally sourced from Kaggle. You'll need the following files:
 
 - **teams.csv**: This is the team-level dataset that will be used in the model.
-- **athlete_events.csv**: The original athlete-level dataset (optional for those looking to preprocess data manually).
